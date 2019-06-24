@@ -1,0 +1,1379 @@
+{
+    "destinacije": [
+          {
+            "id":0,
+            "country":"Italy",
+            "city":"Milano",
+            "description":"Sofisticiranost dostiže novi nivo u Milanu. Finansijski i komercijalni centar Italije, Milano privlači modne eksperte, ljubitelje opere, mlade, lepe i hrabre. Kupovina, hrana i noćni život su ovde ozbiljan posao. Grad može da se pohvali najlepšim tržnim centrom na svetu, Galleria Vittorio Emanuele II (Galerija Vitorio Emanuele) iz XIX veka. Isto tako pažnju privlače i milanske ikone, pozorište La Scala (Milanska skala) i gotska Milanska katedrala (Duomo di Milano), jedna od najvećih na svetu. Glavni trgovi su Piazza Duomo (Pjaca Duomo), Piazza Cairoli (Pjaca Keiroli), Piazza Cordusio (Pjaca Korduzio), Piazza San Babila (Pjaca San Babila) i Piazza della Scala (Pjaca dela Skala), na kojoj se nalazi ne samo čuvena istoimena kuća opere, već i renesansna Palazzo Marino (Palaco Marino) – glavno sedište gradske vlade od XIX veka. Predelom oko kolosalne železničke stanice izgrađene 1931. godine, Stazione di Milano Centrale, dominiraju neboderi iz kojih se izdvaja elegantni Pirelli (Pireli) toranj. Pored mnogobrojnih muzeja, ističe se muzej nauke i tehnologije Leonardo da Vinči. Ukoliko odvojite vreme da se Milanu podvučete pod kožu, velike su šanse da ćete ubrzo shvatiti da se on podvukao pod vašu.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"https://www.nationalgeographic.rs/files/images/2018/12/milano_ekologija_sadnja_drveca_aps_837257035.jpg"
+          },
+          {
+            "id":1,
+            "country":"Spain",
+            "city":"Grenada",
+            "description":"Čuveni stari mavarski grad Granada, danas glavni grad njene pokrajine i univerzitetski grad. Krunisana palatom Alhambra, Granada je proglašena za nacionalni spomenik na osnovu njenih brojnih, dobro očuvanih ostataka bogate kulture i umetnosti i kao mesto velikih događaja u istoriji Španije. Granada je turističko i kulturno žarište Španije. Alhambra, mavarska tvrđava i palata, je pod zaštitom UNESCO-a i danas služi kao muzej islamske arhitekture. Postoje i drugi brojni značajni arhitektonski lokaliteti kao što je katedrala, Bermejas (Bermehas) kule i The Cube (Kocka). Univerzitet Granade je takođe dobro poznat u Španiji, osnovan 1349. danas ima tri kampusa i preko 60.000 studenata. Ovo je popularni centar učenja evropskih studenata.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"https://s-ec.bstatic.com/images/hotel/max1024x768/884/88466405.jpg"
+          },
+          {
+            "id":0,
+            "country":"Italy",
+            "city":"Milano",
+            "description":"Sofisticiranost dostiže novi nivo u Milanu. Finansijski i komercijalni centar Italije, Milano privlači modne eksperte, ljubitelje opere, mlade, lepe i hrabre. Kupovina, hrana i noćni život su ovde ozbiljan posao. Grad može da se pohvali najlepšim tržnim centrom na svetu, Galleria Vittorio Emanuele II (Galerija Vitorio Emanuele) iz XIX veka. Isto tako pažnju privlače i milanske ikone, pozorište La Scala (Milanska skala) i gotska Milanska katedrala (Duomo di Milano), jedna od najvećih na svetu. Glavni trgovi su Piazza Duomo (Pjaca Duomo), Piazza Cairoli (Pjaca Keiroli), Piazza Cordusio (Pjaca Korduzio), Piazza San Babila (Pjaca San Babila) i Piazza della Scala (Pjaca dela Skala), na kojoj se nalazi ne samo čuvena istoimena kuća opere, već i renesansna Palazzo Marino (Palaco Marino) – glavno sedište gradske vlade od XIX veka. Predelom oko kolosalne železničke stanice izgrađene 1931. godine, Stazione di Milano Centrale, dominiraju neboderi iz kojih se izdvaja elegantni Pirelli (Pireli) toranj. Pored mnogobrojnih muzeja, ističe se muzej nauke i tehnologije Leonardo da Vinči. Ukoliko odvojite vreme da se Milanu podvučete pod kožu, velike su šanse da ćete ubrzo shvatiti da se on podvukao pod vašu.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"https://www.nationalgeographic.rs/files/images/2018/12/milano_ekologija_sadnja_drveca_aps_837257035.jpg"
+          },
+          {
+            "id":0,
+            "country":"Italy",
+            "city":"Milano",
+            "description":"Sofisticiranost dostiže novi nivo u Milanu. Finansijski i komercijalni centar Italije, Milano privlači modne eksperte, ljubitelje opere, mlade, lepe i hrabre. Kupovina, hrana i noćni život su ovde ozbiljan posao. Grad može da se pohvali najlepšim tržnim centrom na svetu, Galleria Vittorio Emanuele II (Galerija Vitorio Emanuele) iz XIX veka. Isto tako pažnju privlače i milanske ikone, pozorište La Scala (Milanska skala) i gotska Milanska katedrala (Duomo di Milano), jedna od najvećih na svetu. Glavni trgovi su Piazza Duomo (Pjaca Duomo), Piazza Cairoli (Pjaca Keiroli), Piazza Cordusio (Pjaca Korduzio), Piazza San Babila (Pjaca San Babila) i Piazza della Scala (Pjaca dela Skala), na kojoj se nalazi ne samo čuvena istoimena kuća opere, već i renesansna Palazzo Marino (Palaco Marino) – glavno sedište gradske vlade od XIX veka. Predelom oko kolosalne železničke stanice izgrađene 1931. godine, Stazione di Milano Centrale, dominiraju neboderi iz kojih se izdvaja elegantni Pirelli (Pireli) toranj. Pored mnogobrojnih muzeja, ističe se muzej nauke i tehnologije Leonardo da Vinči. Ukoliko odvojite vreme da se Milanu podvučete pod kožu, velike su šanse da ćete ubrzo shvatiti da se on podvukao pod vašu.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://www.nationalgeographic.rs/files/images/2018/12/milano_ekologija_sadnja_drveca_aps_837257035.jpg"
+          },
+            {
+              "id":4,
+            "country":"Greece",
+            "city":"Kitera",
+            "description":"Ovo ostrvo mnogi smatraju jednim od najlepših nedovoljno poznatih mediteranskih ostrva. Nalazi se južno od Peloponeza i do njega možete stići trajektom ili avionom iz Atine. Ono što je mnogima važno – na ovom ostrvu nikada nema gužve i možete na miru uživati na njegovim plažama.Najbolja i najpopularnija plaža je Kaladi, ali tu su i ostale Melidoni, Kapsali, Diakofti, Komponada… Do nekih morate doći putevima koji nisu potpuno asfaltirani ili da se spustite velikim stepeništem (do plaže Kaladi ih ima 120). Na Kitiri možete obići brojne tvrđave, spomenike, pećine, vodopade, crkve i manastire.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://stil.kurir.rs/data/images/2018/07/15/21/162897_shutterstock-543947311_ff.jpg?ver=1531683908"
+            },
+            {
+              "id":5,
+            "country":"Greece",
+            "city":"Folegandros",
+            "description":"Folegandros je jedno od najautentičnijih neotkrivenih ostrva u Grčkoj. Pripada grupi kiklandskih ostrva i nalazi se četdesetak kilometara severo-zapadno od Santorinija. Stenovito ostrvo, koje se prostire na 32 kvadratna metra i ima svega 600 stanovnika, idealan je izbor za avanturiste. Ovde postoje tri sela – Karavostasis, Ano Meria i centralno Hora koje se nalazi na litici i predstavlja idiličan kontrast belih kuća i stena. Na samo 15-ak minuta laganog hoda je i crkva posvećena Bogorodici.          Ovo je jedno od onih ostrva koje treba obići celo, sva tri sela na njemu su spojena asfaltiranim putevima. Iako malo, Folegandros ima nekoliko divnih plaža. Uglavnom su peščane, može se pronaći i prirodan hlad, ali retko koja ima neku tavernu, uglavnom su divlje tako da obezbedite hranu i piće. Do nekih je moguće doći automobilom, ali će vam trebati kondicija jer se do nekih pešači.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://mrandmrsparrot.gr/wp-content/uploads/2015/06/tradition-island-folegandros-greece-1140x660.jpg"
+            },
+            {
+              "id":6,
+            "country":"Greece",
+            "city":"Kea",
+            "description":"Ovo ostvo nalazi se u blizini Atine, nekih sat vremena vožnje trajektom, ali i dalje uspeva da odoli masovnom turizmu. Upravo su i Grci iz Atine najčešći posetioci ovog ostrva koje pripada grupi kikladskih, kao i ljubitelji ronjenja, jer je u blizini ostrva 1916. godine potopljen je brod Britanik, najveći brod na svetu u to vreme.Gialiskari, Kundros ili Skila spadaju u najpopularnije plaže, ali su brojne i one na kojima nema organizovanog sadržaja i svakako ih vredi posetiti ukoliko ste odlučili da svoj odmor provedete u potpunom miru. Kea je idealna i za hajking, jer je najviši vrh 560 metara. Možete odlično iskobinovati posetu Atini na par dana, a potom se prebaciti na Keu.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/countrybanner/travelling-in-greece-tours-and-vacation-packages-1503903416-1920X700.jpg"
+            },
+            {
+              "id":7,
+            "country":"Greece",
+            "city":"Meganisi",
+            "description":"Meganisi je maleno ostrvo u Jonskom moru. Nalazi se u neposrednoj blizini Lefkade odakle iz Nidrija za svega nekoliko minuta trajektom stižete na ovo ostrvce. Karakteriše ga bujna vegetacija, četinarske šume i maslinjaci. Na ostrvu postoje tri sela Vati, Katomeri i Spartohori. Do poslednjeg u nizu je najbolje doći uskim putem ili stepenicama, laganom desetominutnom šetnjom, od zaliva i luke Spilija, gde se nalazi i jedna fenomenalna plaža.            Idealna varijanta je da iznajmite skuter, lagano obiđete ostrvo i pronađete uvale i plaže na kojima možete uživati. Na ostvru se nalazi pećina Papanikolis, druga po veličini u Grčkoj. Sa Meganisija lako stižete i do Lefkade ukoliko želite da istražite oba ostrva.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://stil.kurir.rs/data/images/2018/07/15/21/162901_shutterstock-695099677_ff.jpg?ver=1531684004"
+            },
+            {
+              "id":8,
+            "country":"Greece",
+            "city":"Kasteloriozo",
+            "description":"Najznačajnije mesto na ovom ostrvu Megisti je ujedno najistočnija tačka Grčke. Pripada Dodekanima i nalazi se svega dva kilometra od turske obale, otprilike na pola puta između Rodosa i Antalije. Tokom istorije osvajale su ga brojne vojske. Na ostrvu je sniman italijanski film Mediteraneo, dobitnik Oskara za najbolji strani film 1992.           Ovo je svakako netipično grčko ostrvo, za razliku od belih kuća na Kikladima, u Megistiju, luci i jedinom mestu na ostvru, izgrađene su vile i kuće u raznim bojama. Vredi se popeti na vrh Sveti Đorđe, do koga vodi 401 stepenik, i baciti pogled na tursku obalu. Takođe, kupanje u Plavoj pećini koja ima zadivljujuću plavu boju, i poseta malom ostrvcetu Ro, koje nema stalnog stanovništa, a gde je do 1982. živela Despina Ahladioti, koja je svakoga dana podizala grčku zastavu, neizostavni su deo plana ukoliko poželite da svoj odmor provedete ovde.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"http://www.greece-is.com/wp-content/uploads/2018/08/shutterstock_765047266.jpg"
+            },
+            {
+              "id":9,
+            "country":"Greece",
+            "city":"Kufonisija",
+            "description":"Grupacija od tri ostrva koja pripada Kikladima nalazi se između Naksosa i Amorgosa. Pano Kufonisi je naseljeno, Kato Kufonisi je ostrvo sa jednom tavernom i crkvom, ali se na njemu nalaze predivne plaže, dok je Keros zaštićeno arheološko nalazište     Idealno za odmor jer vam ovde automobil apsolutno nije potreban. Pano Kufonisi možete obići biciklom ili se upustiti u lagane šetnje, jer njegova površina iznosi nešto manje od 6 kilometara kvadratnih. Glavno mesto na ostrvu je tipičan primer kiklandske arhitekture – bele kuće sa plavim prozorima i vratima. Na ostrvu postoje odlične plaže, najpoznatije su Pori i Fanos. Brodićima i čamcima se možete odvesti do Kato Kufonisija i uživati u njegovim lepotama.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"http://www.greece-is.com/wp-content/uploads/2018/08/shutterstock_765047266.jpg"
+            },
+            {
+              "id":10,
+            "country":"Greece",
+            "city":"Kufonisija",
+            "description":"Grupacija od tri ostrva koja pripada Kikladima nalazi se između Naksosa i Amorgosa. Pano Kufonisi je naseljeno, Kato Kufonisi je ostrvo sa jednom tavernom i crkvom, ali se na njemu nalaze predivne plaže, dok je Keros zaštićeno arheološko nalazište     Idealno za odmor jer vam ovde automobil apsolutno nije potreban. Pano Kufonisi možete obići biciklom ili se upustiti u lagane šetnje, jer njegova površina iznosi nešto manje od 6 kilometara kvadratnih. Glavno mesto na ostrvu je tipičan primer kiklandske arhitekture – bele kuće sa plavim prozorima i vratima. Na ostrvu postoje odlične plaže, najpoznatije su Pori i Fanos. Brodićima i čamcima se možete odvesti do Kato Kufonisija i uživati u njegovim lepotama.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://www.greeka.com/photos/highlights/cyclades/koufonisia/kato-koufonisia-480.jpg"
+            },
+            {
+              "id":11,
+            "country":"Greece",
+            "city":"Santorini",
+            "description":"Ostrvo gde je priroda stvorila čistu umetnost. Ostrvo malo po površini, ali nadaleko čuveno po svojoj lepoti. Svojom vulkanskom aktivnošću, snaga prirode je iz dubine Egejskog mora uspela da uzdigne biser medju ostrvima – ostrvo Santorini. Pre oko 3500 godina, ogramna vulkanska erupcija ostavila je traga kada je centralni deo ostrva pao u dubine mora i ostavio na površini 300m visoke litice koje su nešto kasnije ukrašene prelepim crkvama i kućama izgrađenim u veoma prepoznatljivom stilu.Santorini pripada ostrvskoj grupi Kiklada. Obuhvata teritoriju od oko 96 km2, dužina obale je 69 km. Zapadna strana ostrva, ona koja je okrenuta prema vulkanu je stenovita i strma i naziva se Kaldera. Stanovnici Santorinija se pretežno bave turizmom, ali i uzgajanjem specifične vrste vinove loze, od koje se dobija izuzetno vino nychteri, i paradajza, veoma malog i neverovatno ukusnog.Zbog svoje popularnosti, gostoprimljivosti i sadržaja Santorini je ostrvo koje poslednjih godina opseda veliki broj poznatih ličnosti iz celog sveta.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"https://www.healthywomen.org/sites/default/files/istock-468940432.jpg"
+            },
+            {
+              "id":12,
+            "country":"Turkey",
+            "city":"Patara",
+            "description":"Provinciji Antalija pripada stari grad Patara i po njemu poznata najduža istoimena plaža turskog dela Mediterana.            Plaža Patara je dugačka 18 kilometara i idealna je za one koji od letovanja očekuju isključivo sunčanje i kupanje. Patara se nalazi na dva sata vožnje od aerodroma Dalama Idealno letovalište za mirne porodične ljude, parove željne tišine, ljubitelje prirode i arheologe.            Deca naročito vole tople plićake, odrasli se mogu baviti surfovanjem, dok se gde god puca pogled vidi pesak. Na plaži se mogu iznajmiti suncobrani i ležaljke.           Da bi se došlo do plaže, mora se proći kroz arheološko nalazište.Među hotelima je naročito popularan Patara Viewpoint. Većinu apartmana, restorana i kafića drže meštani.         Neki delovi plaže su zatvoreni jer su staništa retke vrste kornjača caretta.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://travel.prwave.ro/wp-content/uploads/2015/02/turkey_beach_antalya.jpg"
+            },
+            {
+              "id":13,
+            "country":"Turkey",
+            "city":"Alanja",
+            "description":"Na samom istoku provincije Antalija, na 166 kilometara udaljenosti od grada Antalija, nalazi se spektakularno letovalište Alanja. Iznad Alanje se proteže planinski venac Taurus.Arheološka nalazišta u okolini Alanje pokazuju da je mesto bilo naseljeno i 20.000 godina pre nove ere. Alanja je prepuna arheoloških i etnografskih muzeja vrednih posete.            U sredini zaliva se nalazi luka koja je podignuta još u srednjem veku. Danas su ovde načičkane jahte, brodići (uključujući i turističke).            Alanja broji dve velike plaže, jedna se nalazi na istoku, a druga na zapadu grada. U ponudi su brojne škole ronjenja, a jedna od najpopularnijih aktivnosti je rafting.Sama okolina Alanje je bogata pećinama koje je najbolje obići organizovanim turističkim brodićima.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://travel.prwave.ro/wp-content/uploads/2015/02/turkey_beach_antalya.jpg"
+            },
+            {
+              "id":14,
+            "country":"Turkey",
+            "city":"Patara",
+            "description":"Provinciji Antalija pripada stari grad Patara i po njemu poznata najduža istoimena plaža turskog dela Mediterana.            Plaža Patara je dugačka 18 kilometara i idealna je za one koji od letovanja očekuju isključivo sunčanje i kupanje. Patara se nalazi na dva sata vožnje od aerodroma Dalama Idealno letovalište za mirne porodične ljude, parove željne tišine, ljubitelje prirode i arheologe.            Deca naročito vole tople plićake, odrasli se mogu baviti surfovanjem, dok se gde god puca pogled vidi pesak. Na plaži se mogu iznajmiti suncobrani i ležaljke.           Da bi se došlo do plaže, mora se proći kroz arheološko nalazište.Među hotelima je naročito popularan Patara Viewpoint. Većinu apartmana, restorana i kafića drže meštani.         Neki delovi plaže su zatvoreni jer su staništa retke vrste kornjača caretta.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://travel.prwave.ro/wp-content/uploads/2015/02/turkey_beach_antalya.jpg"
+            },
+            {
+              "id":15,
+            "country":"Turkey",
+            "city":"Alanja",
+            "description":"Na samom istoku provincije Antalija, na 166 kilometara udaljenosti od grada Antalija, nalazi se spektakularno letovalište Alanja. Iznad Alanje se proteže planinski venac Taurus.Arheološka nalazišta u okolini Alanje pokazuju da je mesto bilo naseljeno i 20.000 godina pre nove ere. Alanja je prepuna arheoloških i etnografskih muzeja vrednih posete.            U sredini zaliva se nalazi luka koja je podignuta još u srednjem veku. Danas su ovde načičkane jahte, brodići (uključujući i turističke).            Alanja broji dve velike plaže, jedna se nalazi na istoku, a druga na zapadu grada. U ponudi su brojne škole ronjenja, a jedna od najpopularnijih aktivnosti je rafting.Sama okolina Alanje je bogata pećinama koje je najbolje obići organizovanim turističkim brodićima.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://travel.prwave.ro/wp-content/uploads/2015/02/turkey_beach_antalya.jpg"
+            },
+            {
+              "id":16,
+            "country":"Turkey",
+            "city":"Kemer",
+            "description":"Na 42 kilometara udaljenosti od Antalije, u podnožju Taurusa, nalazi se letovalište Kemer. Kemer se sastoji iz devet sela, dok mu je obala dugačka 52 kilometara. Šume, more i planine se ovde stapaju i čine divno mesto za letovanje. Zbog blizine planina, ovde je klima nešto svežija nego u drugim mediteranskim gradovima. Kemer je mirno mesto, novootkriveno, odlično za ljubitelje jedrenja. Kupoholičari neće moći da odole njegovom velikom bazaru i mnogobrojnim suvenirnicama.Glavna šljunkovita plaža Kemera poseduje „plavu zastavicu“ zbog kristalno čiste vode.Samo je jedna plaža peskovita – Moonlight.Za izležavanje na plaži nije potreban suncobran jer borove šume prave izvanrednu hladovinu.          Kemer je poznat po svojim plantažama pomorandži i letnjim festivalima posvećenim ovom divnom citrusnom voću.Prevedeno sa turskog, kemer znači kaiš. Naime, reka koja protiče kroz Kemer ima oblik kaiša.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://toposiguranje.rs/wp-content/uploads/2017/05/shutterstock_291478784-630x420.jpg"
+            },
+            {
+              "id":17,
+            "country":"Turkey",
+            "city":"Kemer",
+            "description":"Na 42 kilometara udaljenosti od Antalije, u podnožju Taurusa, nalazi se letovalište Kemer. Kemer se sastoji iz devet sela, dok mu je obala dugačka 52 kilometara. Šume, more i planine se ovde stapaju i čine divno mesto za letovanje. Zbog blizine planina, ovde je klima nešto svežija nego u drugim mediteranskim gradovima. Kemer je mirno mesto, novootkriveno, odlično za ljubitelje jedrenja. Kupoholičari neće moći da odole njegovom velikom bazaru i mnogobrojnim suvenirnicama.Glavna šljunkovita plaža Kemera poseduje „plavu zastavicu“ zbog kristalno čiste vode.Samo je jedna plaža peskovita – Moonlight.Za izležavanje na plaži nije potreban suncobran jer borove šume prave izvanrednu hladovinu.          Kemer je poznat po svojim plantažama pomorandži i letnjim festivalima posvećenim ovom divnom citrusnom voću.Prevedeno sa turskog, kemer znači kaiš. Naime, reka koja protiče kroz Kemer ima oblik kaiša.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://toposiguranje.rs/wp-content/uploads/2017/05/shutterstock_291478784-630x420.jpg"
+            },
+            {
+              "id":18,
+            "country":"Spain",
+            "city":"Ibiza",
+            "description":"Ostrvo Ibica nalazi se oko 80 kilometara van kontinentalnog dela Španije, okruženo Sredozemnim morem. Zajedno sa Majorkom i Menorkom spada u grupu Balearskih ostrva. Ibica je legendarna turistička destinacija Španije i domaćin neverovatnom nizu prizora, aktivnosti i događaja. Čak i oni koji prvi put posećuju Ibicu, brzo će biti zaneseni time koliko zabavna i fascinantna Ibica zaista može da bude. Tokom leta je toplo, čak i kad sunce zađe, što je jedan od razloga zašto Ibica ima tako buran noćni život. Uprkos činjenici da je Ibica deo Španije, kuhinja ne mora da bude španska. Ostrvo nudi širok izbor hrane iz cele Evrope.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"https://tntportal.ba/wp-content/uploads/2019/02/gn-gift_guide_variable_c.jpg"
+            },
+            {
+              "id":19,
+            "country":"Spain",
+            "city":"Cuenca",
+            "description":"nalazi se između Madrida i Valensije, u trećem najmanje naseljenom regionu u Evropi, a sam grad je svetska baština -Stari grad je izvanredan primer srednjevekovnog grada, izgrađen na strmim planinskim stranama. Mnoge “Casas colgadas” (viseće kuće) izgrađene su baš do same ivice litice, što Kuenku čini jednim od najupečatljivijih gradova u Španiji. Ona je dragulj u provinciji Castilla la Mancha (Kastija la Manča).",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://tntportal.ba/wp-content/uploads/2019/02/gn-gift_guide_variable_c.jpg"
+            },
+            {
+              "id":20,
+            "country":"Spain",
+            "city":"Cuenca",
+            "description":"nalazi se između Madrida i Valensije, u trećem najmanje naseljenom regionu u Evropi, a sam grad je svetska baština -Stari grad je izvanredan primer srednjevekovnog grada, izgrađen na strmim planinskim stranama. Mnoge “Casas colgadas” (viseće kuće) izgrađene su baš do same ivice litice, što Kuenku čini jednim od najupečatljivijih gradova u Španiji. Ona je dragulj u provinciji Castilla la Mancha (Kastija la Manča).",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"https://tntportal.ba/wp-content/uploads/2019/02/gn-gift_guide_variable_c.jpg"
+            },
+            {
+              "id":21,
+            "country":"Spain",
+            "city":"Cuenca",
+            "description":"nalazi se između Madrida i Valensije, u trećem najmanje naseljenom regionu u Evropi, a sam grad je svetska baština -Stari grad je izvanredan primer srednjevekovnog grada, izgrađen na strmim planinskim stranama. Mnoge “Casas colgadas” (viseće kuće) izgrađene su baš do same ivice litice, što Kuenku čini jednim od najupečatljivijih gradova u Španiji. Ona je dragulj u provinciji Castilla la Mancha (Kastija la Manča).",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://tntportal.ba/wp-content/uploads/2019/02/gn-gift_guide_variable_c.jpg"
+            },
+            {
+              "id":22,
+            "country":"Spain",
+            "city":"Kosta brava",
+            "description":"Kosta Brava - Lepa obala Kosta Brave proteže se 160km duž obale Katalonije u severoistočnom uglu Španije, od Port Bou na francusko- španskoj granici do Tossa del Mar (Tosa del Mar), severno od Barselone. Obala je puna visoko razvijenih turističkih letovališta i savremenih marina, ali i zelenih padina i usamljenih, divljih litica, uvala i pećina. Sve to potvrđuje njenu reputaciju jedne od najprometnijih evropskih destinacija za odmor. Turisti uživaju u skrivenim zadovoljstvima na stenovitoj obali, mnogi se otisnu čamcima da otkrivaju napuštene uvale sa mirisom borovog i limunovog drveta, mirisnim biljem i jarkim cvećem. Internacionalna odmarališta i marine leže u neposrednoj blizini relativno netaknutih ribarskih sela i gradova, dokazujući bogatu istoriju ove oblasti sa starim zamkovima i utvrđenjima. Ronioci uživaju u kristalnim vodama, istražujući mnogobrojne olupine. Od poznatijih letovališta tu su: Lloret de Mar (Ljoret de Mar) i Tossa de Mar (Tosa de Mar). Ljoret de Mar je popularno letovalište, poznato po ogromnom broju hotela, barova, diskoteka i noćnih klubova, kao i zbog njenih pet plaža sa zlatnim peskom. Tossa de Mar je slikovit, istorijski grad smešten iza zlatnih peščanih plaža i predstavlja suprotnost komercijalnog letovališta Ljoret de Mar.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"http://www.love2travel.rs/wp-content/uploads/2016/06/KOSTA-BRAVA-LETO.jpg"
+            },
+            {
+              "id":23,
+            "country":"Spain",
+            "city":"Majorka",
+            "description":"Majorka - Najveće u grupi Balearskih ostrva, koja zajedno formiraju jednu od najpopularnijih destinacija za odmor u svetu. Od svih mediteranskih destinacija u Španiji, Majorka je daleko najpopularnija sa milionima turista na njenim obalama svake godine. Majorka je postala turistička meka 1960-ih, kada je izgrađeno na stotine visoko razvijenih hotela, apartmanskih blokova i tržnih centara, koji sada dominiraju obalom ostrva. Prestonica Palma de Majorka, ipak je u svom živom centru zadržala nešto od svoje istorije i veličanstvenu gotsku katedralu. Severozapadna obala nudi neke sakrivene uvale ispod vrhova Serra de Tramuntana (Sera de Tramuntana) planinskog venca i nekoliko starih gradova i sela, dok su na jugu plantažne ravnice sa maslinama i bademima. Većina posetilaca ide na Majorku zbog sunca i zabave. Sa hiljadama sunčevih sati tokom godine i više barova nego što se nadate da ćete posetiti u svom životu, malo je verovatno da će vas Majorka razočarati na ovom polju. Možete napraviti pauzu od plaže i obići ostrvo autom ili biciklom, što vam omogućava da otkrijete romantična ribarska sela Majorke, istorijske manastire, spomenike, muzeje i spektakularne pejzaže. Duboko ukorenjena u bogatoj i divnoj mediteranskoj istoriji, Majorka ima neke fascinantne atrakcije koje će privući sve vrste putnika i pružiti zanimljiv uvid u istoriju ostrva. Castell d’Alaro (Kastel de Alaro) je najpopularnija pešačka staza Majorke, koja vodi od grada Alaro do ruševina zamka iz XV veka sa kapelom na vrhu brda, pružajući prekrasan pogled na ostrvo i Sredozemno more. Provozajte se prugom Soller-Palma i uživajte u neverovatnom pogledu, dok ljubitelji kulture treba da posete Catedral La Seo (katedrala La Seo), Castell del Bellver (zamak Belver) i Museo d' Art Espanyol Contemporani (Muzej savremene španske umetnosti) u Palmi. Palma Nova, Illetes i Es Trenc (na jugoistočnoj obali) neke su od najpopularnijih plaža na ostrvu - ali postoje mnoge, mnoge druge koje možete obići.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"https://www.globusnis.rs//wp-content/gallery/majorkaslike_2/majorka-letovanje-globus-travel-shop2.jpg"
+            },
+            {
+              "id":24,
+            "country":"Spain",
+            "city":"Kosta brava",
+            "description":"Kosta Brava - Lepa obala Kosta Brave proteže se 160km duž obale Katalonije u severoistočnom uglu Španije, od Port Bou na francusko- španskoj granici do Tossa del Mar (Tosa del Mar), severno od Barselone. Obala je puna visoko razvijenih turističkih letovališta i savremenih marina, ali i zelenih padina i usamljenih, divljih litica, uvala i pećina. Sve to potvrđuje njenu reputaciju jedne od najprometnijih evropskih destinacija za odmor. Turisti uživaju u skrivenim zadovoljstvima na stenovitoj obali, mnogi se otisnu čamcima da otkrivaju napuštene uvale sa mirisom borovog i limunovog drveta, mirisnim biljem i jarkim cvećem. Internacionalna odmarališta i marine leže u neposrednoj blizini relativno netaknutih ribarskih sela i gradova, dokazujući bogatu istoriju ove oblasti sa starim zamkovima i utvrđenjima. Ronioci uživaju u kristalnim vodama, istražujući mnogobrojne olupine. Od poznatijih letovališta tu su: Lloret de Mar (Ljoret de Mar) i Tossa de Mar (Tosa de Mar). Ljoret de Mar je popularno letovalište, poznato po ogromnom broju hotela, barova, diskoteka i noćnih klubova, kao i zbog njenih pet plaža sa zlatnim peskom. Tossa de Mar je slikovit, istorijski grad smešten iza zlatnih peščanih plaža i predstavlja suprotnost komercijalnog letovališta Ljoret de Mar.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"http://www.love2travel.rs/wp-content/uploads/2016/06/KOSTA-BRAVA-LETO.jpg"
+            },
+            {
+              "id":25,
+            "country":"Spain",
+            "city":"Majorka",
+            "description":"Majorka - Najveće u grupi Balearskih ostrva, koja zajedno formiraju jednu od najpopularnijih destinacija za odmor u svetu. Od svih mediteranskih destinacija u Španiji, Majorka je daleko najpopularnija sa milionima turista na njenim obalama svake godine. Majorka je postala turistička meka 1960-ih, kada je izgrađeno na stotine visoko razvijenih hotela, apartmanskih blokova i tržnih centara, koji sada dominiraju obalom ostrva. Prestonica Palma de Majorka, ipak je u svom živom centru zadržala nešto od svoje istorije i veličanstvenu gotsku katedralu. Severozapadna obala nudi neke sakrivene uvale ispod vrhova Serra de Tramuntana (Sera de Tramuntana) planinskog venca i nekoliko starih gradova i sela, dok su na jugu plantažne ravnice sa maslinama i bademima. Većina posetilaca ide na Majorku zbog sunca i zabave. Sa hiljadama sunčevih sati tokom godine i više barova nego što se nadate da ćete posetiti u svom životu, malo je verovatno da će vas Majorka razočarati na ovom polju. Možete napraviti pauzu od plaže i obići ostrvo autom ili biciklom, što vam omogućava da otkrijete romantična ribarska sela Majorke, istorijske manastire, spomenike, muzeje i spektakularne pejzaže. Duboko ukorenjena u bogatoj i divnoj mediteranskoj istoriji, Majorka ima neke fascinantne atrakcije koje će privući sve vrste putnika i pružiti zanimljiv uvid u istoriju ostrva. Castell d’Alaro (Kastel de Alaro) je najpopularnija pešačka staza Majorke, koja vodi od grada Alaro do ruševina zamka iz XV veka sa kapelom na vrhu brda, pružajući prekrasan pogled na ostrvo i Sredozemno more. Provozajte se prugom Soller-Palma i uživajte u neverovatnom pogledu, dok ljubitelji kulture treba da posete Catedral La Seo (katedrala La Seo), Castell del Bellver (zamak Belver) i Museo d' Art Espanyol Contemporani (Muzej savremene španske umetnosti) u Palmi. Palma Nova, Illetes i Es Trenc (na jugoistočnoj obali) neke su od najpopularnijih plaža na ostrvu - ali postoje mnoge, mnoge druge koje možete obići.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://www.globusnis.rs//wp-content/gallery/majorkaslike_2/majorka-letovanje-globus-travel-shop2.jpg"
+            },
+            {
+              "id":26,
+            "country":"Spain",
+            "city":"Kosta brava",
+            "description":"Kosta Brava - Lepa obala Kosta Brave proteže se 160km duž obale Katalonije u severoistočnom uglu Španije, od Port Bou na francusko- španskoj granici do Tossa del Mar (Tosa del Mar), severno od Barselone. Obala je puna visoko razvijenih turističkih letovališta i savremenih marina, ali i zelenih padina i usamljenih, divljih litica, uvala i pećina. Sve to potvrđuje njenu reputaciju jedne od najprometnijih evropskih destinacija za odmor. Turisti uživaju u skrivenim zadovoljstvima na stenovitoj obali, mnogi se otisnu čamcima da otkrivaju napuštene uvale sa mirisom borovog i limunovog drveta, mirisnim biljem i jarkim cvećem. Internacionalna odmarališta i marine leže u neposrednoj blizini relativno netaknutih ribarskih sela i gradova, dokazujući bogatu istoriju ove oblasti sa starim zamkovima i utvrđenjima. Ronioci uživaju u kristalnim vodama, istražujući mnogobrojne olupine. Od poznatijih letovališta tu su: Lloret de Mar (Ljoret de Mar) i Tossa de Mar (Tosa de Mar). Ljoret de Mar je popularno letovalište, poznato po ogromnom broju hotela, barova, diskoteka i noćnih klubova, kao i zbog njenih pet plaža sa zlatnim peskom. Tossa de Mar je slikovit, istorijski grad smešten iza zlatnih peščanih plaža i predstavlja suprotnost komercijalnog letovališta Ljoret de Mar.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"http://www.love2travel.rs/wp-content/uploads/2016/06/KOSTA-BRAVA-LETO.jpg"
+            },
+            {
+              "id":27,
+            "country":"Spain",
+            "city":"Majorka",
+            "description":"Majorka - Najveće u grupi Balearskih ostrva, koja zajedno formiraju jednu od najpopularnijih destinacija za odmor u svetu. Od svih mediteranskih destinacija u Španiji, Majorka je daleko najpopularnija sa milionima turista na njenim obalama svake godine. Majorka je postala turistička meka 1960-ih, kada je izgrađeno na stotine visoko razvijenih hotela, apartmanskih blokova i tržnih centara, koji sada dominiraju obalom ostrva. Prestonica Palma de Majorka, ipak je u svom živom centru zadržala nešto od svoje istorije i veličanstvenu gotsku katedralu. Severozapadna obala nudi neke sakrivene uvale ispod vrhova Serra de Tramuntana (Sera de Tramuntana) planinskog venca i nekoliko starih gradova i sela, dok su na jugu plantažne ravnice sa maslinama i bademima. Većina posetilaca ide na Majorku zbog sunca i zabave. Sa hiljadama sunčevih sati tokom godine i više barova nego što se nadate da ćete posetiti u svom životu, malo je verovatno da će vas Majorka razočarati na ovom polju. Možete napraviti pauzu od plaže i obići ostrvo autom ili biciklom, što vam omogućava da otkrijete romantična ribarska sela Majorke, istorijske manastire, spomenike, muzeje i spektakularne pejzaže. Duboko ukorenjena u bogatoj i divnoj mediteranskoj istoriji, Majorka ima neke fascinantne atrakcije koje će privući sve vrste putnika i pružiti zanimljiv uvid u istoriju ostrva. Castell d’Alaro (Kastel de Alaro) je najpopularnija pešačka staza Majorke, koja vodi od grada Alaro do ruševina zamka iz XV veka sa kapelom na vrhu brda, pružajući prekrasan pogled na ostrvo i Sredozemno more. Provozajte se prugom Soller-Palma i uživajte u neverovatnom pogledu, dok ljubitelji kulture treba da posete Catedral La Seo (katedrala La Seo), Castell del Bellver (zamak Belver) i Museo d' Art Espanyol Contemporani (Muzej savremene španske umetnosti) u Palmi. Palma Nova, Illetes i Es Trenc (na jugoistočnoj obali) neke su od najpopularnijih plaža na ostrvu - ali postoje mnoge, mnoge druge koje možete obići.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"https://www.globusnis.rs//wp-content/gallery/majorkaslike_2/majorka-letovanje-globus-travel-shop2.jpg"
+            },
+            {
+              "id":28,
+            "country":"Spain",
+            "city":"Kosta brava",
+            "description":"Kosta Brava - Lepa obala Kosta Brave proteže se 160km duž obale Katalonije u severoistočnom uglu Španije, od Port Bou na francusko- španskoj granici do Tossa del Mar (Tosa del Mar), severno od Barselone. Obala je puna visoko razvijenih turističkih letovališta i savremenih marina, ali i zelenih padina i usamljenih, divljih litica, uvala i pećina. Sve to potvrđuje njenu reputaciju jedne od najprometnijih evropskih destinacija za odmor. Turisti uživaju u skrivenim zadovoljstvima na stenovitoj obali, mnogi se otisnu čamcima da otkrivaju napuštene uvale sa mirisom borovog i limunovog drveta, mirisnim biljem i jarkim cvećem. Internacionalna odmarališta i marine leže u neposrednoj blizini relativno netaknutih ribarskih sela i gradova, dokazujući bogatu istoriju ove oblasti sa starim zamkovima i utvrđenjima. Ronioci uživaju u kristalnim vodama, istražujući mnogobrojne olupine. Od poznatijih letovališta tu su: Lloret de Mar (Ljoret de Mar) i Tossa de Mar (Tosa de Mar). Ljoret de Mar je popularno letovalište, poznato po ogromnom broju hotela, barova, diskoteka i noćnih klubova, kao i zbog njenih pet plaža sa zlatnim peskom. Tossa de Mar je slikovit, istorijski grad smešten iza zlatnih peščanih plaža i predstavlja suprotnost komercijalnog letovališta Ljoret de Mar.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"http://www.love2travel.rs/wp-content/uploads/2016/06/KOSTA-BRAVA-LETO.jpg"
+            },
+            {
+              "id":29,
+            "country":"Spain",
+            "city":"Fuerteventura",
+            "description":"Fuerteventura - Ostrvo je relativno nerazvijeno, najpoznatije po svojim najdužim plažama sa belim peskom na Kanarskim ostrvima. Ima tri glavna letovališta, vrlo prijatna, za porodičnu zabavu, vrhunske sportove na vodi i smeštaj za svačiji džep. Fuerteventura ima sve što vam je potrebno za jedan opuštajući odmor ili može biti romantično utočište.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/bc/a1/71/barcelo-castillo-club.jpg"
+            },
+            {
+              "id":30,
+            "country":"Spain",
+            "city":"Fuerteventura",
+            "description":"Fuerteventura - Ostrvo je relativno nerazvijeno, najpoznatije po svojim najdužim plažama sa belim peskom na Kanarskim ostrvima. Ima tri glavna letovališta, vrlo prijatna, za porodičnu zabavu, vrhunske sportove na vodi i smeštaj za svačiji džep. Fuerteventura ima sve što vam je potrebno za jedan opuštajući odmor ili može biti romantično utočište.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/bc/a1/71/barcelo-castillo-club.jpg"
+            },
+            {
+              "id":29,
+            "country":"Spain",
+            "city":"Fuerteventura",
+            "description":"Fuerteventura - Ostrvo je relativno nerazvijeno, najpoznatije po svojim najdužim plažama sa belim peskom na Kanarskim ostrvima. Ima tri glavna letovališta, vrlo prijatna, za porodičnu zabavu, vrhunske sportove na vodi i smeštaj za svačiji džep. Fuerteventura ima sve što vam je potrebno za jedan opuštajući odmor ili može biti romantično utočište.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/bc/a1/71/barcelo-castillo-club.jpg"
+            },
+            {
+              "id":30,
+            "country":"Italy",
+            "city":"Cortina d’Ampezzo",
+            "description":"Jedno je od najpopularnijih skijališta i ujedno jedna od destinacija bogatih i poznatih ljudi. Ovaj ski centar je razvijen pre nekih 160 godina kada su posetioci koristili ovo mesto kao početak njihovog putovanja u neverovatne vrhove Dolomita. Mnogo važnih događaja održano je u ovom mestu, uključujući i Zimske olimpijske igre 1956. godine. Ovo skijalište se ponekad naziva i kraljicom Dolomita.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/02/04/16/Cortinad.jpg?w968"
+            },
+            {
+              "id":31,
+            "country":"Italy",
+            "city":"Cortina d’Ampezzo",
+            "description":"Jedno je od najpopularnijih skijališta i ujedno jedna od destinacija bogatih i poznatih ljudi. Ovaj ski centar je razvijen pre nekih 160 godina kada su posetioci koristili ovo mesto kao početak njihovog putovanja u neverovatne vrhove Dolomita. Mnogo važnih događaja održano je u ovom mestu, uključujući i Zimske olimpijske igre 1956. godine. Ovo skijalište se ponekad naziva i kraljicom Dolomita.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/02/04/16/Cortinad.jpg?w968"
+            },
+            {
+              "id":32,
+            "country":"Italy",
+            "city":"Cortina d’Ampezzo",
+            "description":"Jedno je od najpopularnijih skijališta i ujedno jedna od destinacija bogatih i poznatih ljudi. Ovaj ski centar je razvijen pre nekih 160 godina kada su posetioci koristili ovo mesto kao početak njihovog putovanja u neverovatne vrhove Dolomita. Mnogo važnih događaja održano je u ovom mestu, uključujući i Zimske olimpijske igre 1956. godine. Ovo skijalište se ponekad naziva i kraljicom Dolomita.",
+            "season":"winter",
+            "type":"Obilazak",
+            "imgsrc":"https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/02/04/16/Cortinad.jpg?w968"
+            },
+            {
+              "id":32,
+            "country":"Italy",
+            "city":"Madonna di Campiglio",
+            "description":"U zaštićenoj sunčanoj dolini Dolomiti di Brenta, nalazi se ovo skijalište sa zapanjujućim pejzažima i izazovnim crnim stazama. Ski centar izgrađen je u atraktivnom tradicionalnom stilu. Većina staza su srednje kategorij",
+            "season":"winter",
+            "type":"Obilazak",
+            "imgsrc":"https://www.wetheitalians.com/storage/app/uploads/public/5aa/cd5/f35/5aacd5f35863a014206184.jpg"
+            },
+            {
+              "id":33,
+            "country":"Italy",
+            "city":"Madonna di Campiglio",
+            "description":"U zaštićenoj sunčanoj dolini Dolomiti di Brenta, nalazi se ovo skijalište sa zapanjujućim pejzažima i izazovnim crnim stazama. Ski centar izgrađen je u atraktivnom tradicionalnom stilu. Većina staza su srednje kategorij",
+            "season":"winter",
+            "type":"Porodicno",
+            "imgsrc":"https://www.wetheitalians.com/storage/app/uploads/public/5aa/cd5/f35/5aacd5f35863a014206184.jpg"
+            },
+            {
+              "id":34,
+            "country":"Italy",
+            "city":"Madonna di Campiglio",
+            "description":"U zaštićenoj sunčanoj dolini Dolomiti di Brenta, nalazi se ovo skijalište sa zapanjujućim pejzažima i izazovnim crnim stazama. Ski centar izgrađen je u atraktivnom tradicionalnom stilu. Većina staza su srednje kategorij",
+            "season":"winter",
+            "type":"Avantura",
+            "imgsrc":"https://www.wetheitalians.com/storage/app/uploads/public/5aa/cd5/f35/5aacd5f35863a014206184.jpg"
+            },
+            {
+              "id":35,
+            "country":"Italy",
+            "city":"Viareggio",
+            "description":"Opustite se u jednom od najpoznatijih letovališta toskanske rivijere, mirnom primorskom gradu, ispunjenom buticima, barovima, restoranima i elegantnim hotelima. Uživajte na njegovim lepim peščanim plažama ili prošetajte duž šetališta sa palmama i šik kafićima, umetničkim galerijama i restoranima. Najveće letovalište u Toskani, nudi vam bogat noćni život, a poznat je i po Carnevale di Viareggio, koji privlači milione posetilaca svakog februara.",
+            "season":"winter",
+            "type":"Avantura",
+            "imgsrc":"https://static.ferienhausmiete.de/pictures/104060/bilder_original/104060_89818873727051.jpg"
+            },
+            {
+              "id":36,
+            "country":"Italy",
+            "city":"Viareggio",
+            "description":"Opustite se u jednom od najpoznatijih letovališta toskanske rivijere, mirnom primorskom gradu, ispunjenom buticima, barovima, restoranima i elegantnim hotelima. Uživajte na njegovim lepim peščanim plažama ili prošetajte duž šetališta sa palmama i šik kafićima, umetničkim galerijama i restoranima. Najveće letovalište u Toskani, nudi vam bogat noćni život, a poznat je i po Carnevale di Viareggio, koji privlači milione posetilaca svakog februara.",
+            "season":"winter",
+            "type":"Obilazak",
+            "imgsrc":"https://static.ferienhausmiete.de/pictures/104060/bilder_original/104060_89818873727051.jpg"
+            },
+            {
+              "id":37,
+            "country":"Italy",
+            "city":"Viareggio",
+            "description":"Opustite se u jednom od najpoznatijih letovališta toskanske rivijere, mirnom primorskom gradu, ispunjenom buticima, barovima, restoranima i elegantnim hotelima. Uživajte na njegovim lepim peščanim plažama ili prošetajte duž šetališta sa palmama i šik kafićima, umetničkim galerijama i restoranima. Najveće letovalište u Toskani, nudi vam bogat noćni život, a poznat je i po Carnevale di Viareggio, koji privlači milione posetilaca svakog februara.",
+            "season":"winter",
+            "type":"Medeni mesec",
+            "imgsrc":"https://static.ferienhausmiete.de/pictures/104060/bilder_original/104060_89818873727051.jpg"
+            },
+            {
+              "id":38,
+            "country":"Italy",
+            "city":"Viareggio",
+            "description":"Opustite se u jednom od najpoznatijih letovališta toskanske rivijere, mirnom primorskom gradu, ispunjenom buticima, barovima, restoranima i elegantnim hotelima. Uživajte na njegovim lepim peščanim plažama ili prošetajte duž šetališta sa palmama i šik kafićima, umetničkim galerijama i restoranima. Najveće letovalište u Toskani, nudi vam bogat noćni život, a poznat je i po Carnevale di Viareggio, koji privlači milione posetilaca svakog februara.",
+            "season":"winter",
+            "type":"Porodicno",
+            "imgsrc":"https://static.ferienhausmiete.de/pictures/104060/bilder_original/104060_89818873727051.jpg"
+            },
+            {
+              "id":39,
+            "country":"Italy",
+            "city":"Capri",
+            "description":"Kapri je očaravajuće i slikovito ostrvo od krečnjačkih stena. Miljenik rimskih careva, bogatih i slavnih, umetnika i pisaca i još uvek jedna od mediteranskih mesta koja se moraju videti. Top atrakcija ostrva je poznata plava pećina, Grotta Azzurra. Turisti dolaze brodom do Marina Grande, glavne luke na ostrvu. Plaže su razbacane oko ostrva. Postoje samo dva grada – Capri (Kapri), odmah iznad Marina Grande i Anacapri (Anakapri) viši grad. Drvo limuna, cveće, drveće i ptice ovde se nalaze u izobilju.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/24/fd/eb/gocce-di-capri-hotel.jpg"
+            },
+            {
+              "id":40,
+            "country":"Italy",
+            "city":"Capri",
+            "description":"Kapri je očaravajuće i slikovito ostrvo od krečnjačkih stena. Miljenik rimskih careva, bogatih i slavnih, umetnika i pisaca i još uvek jedna od mediteranskih mesta koja se moraju videti. Top atrakcija ostrva je poznata plava pećina, Grotta Azzurra. Turisti dolaze brodom do Marina Grande, glavne luke na ostrvu. Plaže su razbacane oko ostrva. Postoje samo dva grada – Capri (Kapri), odmah iznad Marina Grande i Anacapri (Anakapri) viši grad. Drvo limuna, cveće, drveće i ptice ovde se nalaze u izobilju.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/24/fd/eb/gocce-di-capri-hotel.jpg"
+            },
+            {
+              "id":41,
+            "country":"France",
+            "city":"Dolina Loire (Loare)",
+            "description":"Ukoliko volite raskošan način života aristokratije iz prošlih vekova, onda je prelepi region Loare pravo mesto za vas. Ovo je čuvena “chateau” zemlja sa nekim od najveličanstvenijih starih imanja i utvrđenih dvoraca u Francuskoj. Poput reke Loare, ova ogromna oblast prolazi kroz srce francuskog života. Sa svojim sofisticiranim gradovima, bujnim pejzažima i fantastičnom hranom i vinom, čini raj za buržoaziju. Istorijski gradovi i veličanstvena linija dvoraca duž doline, uključujući i upečatljiv Chateau d'Usse, koji je bio inspiracija za bajku “Uspavana lepotica”, kao i za dvorac u Diznilendu. Dolina Loare je za duži period, dok Henri IV nije preselio svoj dvor u Pariz, bila dom kraljevske porodice i intelektualna prestonica Francuske. Nalazi se na listi UNESCO-ve svetske baštine. Ruralno i opuštajuće mesto, idealno za istraživanje.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://www.zanimljivageografija.com/uploads/galleries/najromanticnija-dolina-dolina-loare/najromanticnija-dolina-dolina-loare-12.jpg"
+            },
+            {
+              "id":42,
+            "country":"France",
+            "city":"Dolina Loire (Loare)",
+            "description":"Ukoliko volite raskošan način života aristokratije iz prošlih vekova, onda je prelepi region Loare pravo mesto za vas. Ovo je čuvena “chateau” zemlja sa nekim od najveličanstvenijih starih imanja i utvrđenih dvoraca u Francuskoj. Poput reke Loare, ova ogromna oblast prolazi kroz srce francuskog života. Sa svojim sofisticiranim gradovima, bujnim pejzažima i fantastičnom hranom i vinom, čini raj za buržoaziju. Istorijski gradovi i veličanstvena linija dvoraca duž doline, uključujući i upečatljiv Chateau d'Usse, koji je bio inspiracija za bajku “Uspavana lepotica”, kao i za dvorac u Diznilendu. Dolina Loare je za duži period, dok Henri IV nije preselio svoj dvor u Pariz, bila dom kraljevske porodice i intelektualna prestonica Francuske. Nalazi se na listi UNESCO-ve svetske baštine. Ruralno i opuštajuće mesto, idealno za istraživanje.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"https://www.zanimljivageografija.com/uploads/galleries/najromanticnija-dolina-dolina-loare/najromanticnija-dolina-dolina-loare-12.jpg"
+            },
+            {
+              "id":43,
+            "country":"France",
+            "city":"Dolina Loire (Loare)",
+            "description":"Ukoliko volite raskošan način života aristokratije iz prošlih vekova, onda je prelepi region Loare pravo mesto za vas. Ovo je čuvena “chateau” zemlja sa nekim od najveličanstvenijih starih imanja i utvrđenih dvoraca u Francuskoj. Poput reke Loare, ova ogromna oblast prolazi kroz srce francuskog života. Sa svojim sofisticiranim gradovima, bujnim pejzažima i fantastičnom hranom i vinom, čini raj za buržoaziju. Istorijski gradovi i veličanstvena linija dvoraca duž doline, uključujući i upečatljiv Chateau d'Usse, koji je bio inspiracija za bajku “Uspavana lepotica”, kao i za dvorac u Diznilendu. Dolina Loare je za duži period, dok Henri IV nije preselio svoj dvor u Pariz, bila dom kraljevske porodice i intelektualna prestonica Francuske. Nalazi se na listi UNESCO-ve svetske baštine. Ruralno i opuštajuće mesto, idealno za istraživanje.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"https://www.zanimljivageografija.com/uploads/galleries/najromanticnija-dolina-dolina-loare/najromanticnija-dolina-dolina-loare-12.jpg"
+            },
+            {
+              "id":44,
+            "country":"France",
+            "city":"Biarritz",
+            "description":"Moderan primorski grad, 8km zapadno od Bayonne (Bajon), postao je odmaralište sredinom XIX veka kada su ga Napoleon III i njegova supruga španskog porekla Eugenija, redovno posećivali. Godinama miljenik francuskih bogatih porodica, Bijaric je danas mesto za sve. Poznat je po svojim plažama i možda je najbolje mesto za surfovanje u Evropi.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://www.ospreyholidays.com/pub/img/city/91/city_header_biarritz_17_default.6765.jpg"
+            },
+            {
+              "id":45,
+            "country":"France",
+            "city":"Biarritz",
+            "description":"Moderan primorski grad, 8km zapadno od Bayonne (Bajon), postao je odmaralište sredinom XIX veka kada su ga Napoleon III i njegova supruga španskog porekla Eugenija, redovno posećivali. Godinama miljenik francuskih bogatih porodica, Bijaric je danas mesto za sve. Poznat je po svojim plažama i možda je najbolje mesto za surfovanje u Evropi.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"https://www.ospreyholidays.com/pub/img/city/91/city_header_biarritz_17_default.6765.jpg"
+            },
+            {
+              "id":44,
+            "country":"France",
+            "city":"Biarritz",
+            "description":"Moderan primorski grad, 8km zapadno od Bayonne (Bajon), postao je odmaralište sredinom XIX veka kada su ga Napoleon III i njegova supruga španskog porekla Eugenija, redovno posećivali. Godinama miljenik francuskih bogatih porodica, Bijaric je danas mesto za sve. Poznat je po svojim plažama i možda je najbolje mesto za surfovanje u Evropi.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"https://www.ospreyholidays.com/pub/img/city/91/city_header_biarritz_17_default.6765.jpg"
+            },
+            {
+              "id":44,
+            "country":"France",
+            "city":"Rocamadour",
+            "description":"Grad koji mami posetioce svojim položajem, na litici iznad ušća reke Dordonje, a posebno svojim istorijskim spomenicima i svetilištem Blagoslovene Device Marije, koje vekovima privlači hodočasnike iz svih zemalja, među kojima su i kraljevi, plemići i sveštenici.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"https://cdn.holidayguru.ie/wp-content/uploads/2018/01/Rocamadour_France_Lot_smaller.jpg"
+            },
+            {
+              "id":44,
+            "country":"France",
+            "city":"Rocamadour",
+            "description":"Grad koji mami posetioce svojim položajem, na litici iznad ušća reke Dordonje, a posebno svojim istorijskim spomenicima i svetilištem Blagoslovene Device Marije, koje vekovima privlači hodočasnike iz svih zemalja, među kojima su i kraljevi, plemići i sveštenici.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"https://cdn.holidayguru.ie/wp-content/uploads/2018/01/Rocamadour_France_Lot_smaller.jpg"
+            },
+            {
+              "id":45,
+              "country":"Spain",
+              "city":"Grenada",
+              "description":"Čuveni stari mavarski grad Granada, danas glavni grad njene pokrajine i univerzitetski grad. Krunisana palatom Alhambra, Granada je proglašena za nacionalni spomenik na osnovu njenih brojnih, dobro očuvanih ostataka bogate kulture i umetnosti i kao mesto velikih događaja u istoriji Španije. Granada je turističko i kulturno žarište Španije. Alhambra, mavarska tvrđava i palata, je pod zaštitom UNESCO-a i danas služi kao muzej islamske arhitekture. Postoje i drugi brojni značajni arhitektonski lokaliteti kao što je katedrala, Bermejas (Bermehas) kule i The Cube (Kocka). Univerzitet Granade je takođe dobro poznat u Španiji, osnovan 1349. danas ima tri kampusa i preko 60.000 studenata. Ovo je popularni centar učenja evropskih studenata.",
+              "season":"summer",
+              "type":"Obilazak",
+              "imgsrc":"https://s-ec.bstatic.com/images/hotel/max1024x768/884/88466405.jpg"
+            } ,
+            {
+              "id":46,
+            "country":"Turkey",
+            "city":"Kemer",
+            "description":"Na 42 kilometara udaljenosti od Antalije, u podnožju Taurusa, nalazi se letovalište Kemer. Kemer se sastoji iz devet sela, dok mu je obala dugačka 52 kilometara. Šume, more i planine se ovde stapaju i čine divno mesto za letovanje. Zbog blizine planina, ovde je klima nešto svežija nego u drugim mediteranskim gradovima. Kemer je mirno mesto, novootkriveno, odlično za ljubitelje jedrenja. Kupoholičari neće moći da odole njegovom velikom bazaru i mnogobrojnim suvenirnicama.Glavna šljunkovita plaža Kemera poseduje „plavu zastavicu“ zbog kristalno čiste vode.Samo je jedna plaža peskovita – Moonlight.Za izležavanje na plaži nije potreban suncobran jer borove šume prave izvanrednu hladovinu.          Kemer je poznat po svojim plantažama pomorandži i letnjim festivalima posvećenim ovom divnom citrusnom voću.Prevedeno sa turskog, kemer znači kaiš. Naime, reka koja protiče kroz Kemer ima oblik kaiša.",
+            "season":"summer",
+            "type":"Avantura",
+            "imgsrc":"https://toposiguranje.rs/wp-content/uploads/2017/05/shutterstock_291478784-630x420.jpg"
+            },
+            {
+              "id":47,
+            "country":"Turkey",
+            "city":"Kemer",
+            "description":"Na 42 kilometara udaljenosti od Antalije, u podnožju Taurusa, nalazi se letovalište Kemer. Kemer se sastoji iz devet sela, dok mu je obala dugačka 52 kilometara. Šume, more i planine se ovde stapaju i čine divno mesto za letovanje. Zbog blizine planina, ovde je klima nešto svežija nego u drugim mediteranskim gradovima. Kemer je mirno mesto, novootkriveno, odlično za ljubitelje jedrenja. Kupoholičari neće moći da odole njegovom velikom bazaru i mnogobrojnim suvenirnicama.Glavna šljunkovita plaža Kemera poseduje „plavu zastavicu“ zbog kristalno čiste vode.Samo je jedna plaža peskovita – Moonlight.Za izležavanje na plaži nije potreban suncobran jer borove šume prave izvanrednu hladovinu.          Kemer je poznat po svojim plantažama pomorandži i letnjim festivalima posvećenim ovom divnom citrusnom voću.Prevedeno sa turskog, kemer znači kaiš. Naime, reka koja protiče kroz Kemer ima oblik kaiša.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://toposiguranje.rs/wp-content/uploads/2017/05/shutterstock_291478784-630x420.jpg"
+            },
+            {
+              "id":48,
+            "country":"Greece",
+            "city":"Meganisi",
+            "description":"Meganisi je maleno ostrvo u Jonskom moru. Nalazi se u neposrednoj blizini Lefkade odakle iz Nidrija za svega nekoliko minuta trajektom stižete na ovo ostrvce. Karakteriše ga bujna vegetacija, četinarske šume i maslinjaci. Na ostrvu postoje tri sela Vati, Katomeri i Spartohori. Do poslednjeg u nizu je najbolje doći uskim putem ili stepenicama, laganom desetominutnom šetnjom, od zaliva i luke Spilija, gde se nalazi i jedna fenomenalna plaža.            Idealna varijanta je da iznajmite skuter, lagano obiđete ostrvo i pronađete uvale i plaže na kojima možete uživati. Na ostvru se nalazi pećina Papanikolis, druga po veličini u Grčkoj. Sa Meganisija lako stižete i do Lefkade ukoliko želite da istražite oba ostrva.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"https://stil.kurir.rs/data/images/2018/07/15/21/162901_shutterstock-695099677_ff.jpg?ver=1531684004"
+            },
+            {
+              "id":49,
+            "country":"Greece",
+            "city":"Kasteloriozo",
+            "description":"Najznačajnije mesto na ovom ostrvu Megisti je ujedno najistočnija tačka Grčke. Pripada Dodekanima i nalazi se svega dva kilometra od turske obale, otprilike na pola puta između Rodosa i Antalije. Tokom istorije osvajale su ga brojne vojske. Na ostrvu je sniman italijanski film Mediteraneo, dobitnik Oskara za najbolji strani film 1992.           Ovo je svakako netipično grčko ostrvo, za razliku od belih kuća na Kikladima, u Megistiju, luci i jedinom mestu na ostvru, izgrađene su vile i kuće u raznim bojama. Vredi se popeti na vrh Sveti Đorđe, do koga vodi 401 stepenik, i baciti pogled na tursku obalu. Takođe, kupanje u Plavoj pećini koja ima zadivljujuću plavu boju, i poseta malom ostrvcetu Ro, koje nema stalnog stanovništa, a gde je do 1982. živela Despina Ahladioti, koja je svakoga dana podizala grčku zastavu, neizostavni su deo plana ukoliko poželite da svoj odmor provedete ovde.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"http://www.greece-is.com/wp-content/uploads/2018/08/shutterstock_765047266.jpg"
+            },
+            {
+              "id":50,
+            "country":"Greece",
+            "city":"Kufonisija",
+            "description":"Grupacija od tri ostrva koja pripada Kikladima nalazi se između Naksosa i Amorgosa. Pano Kufonisi je naseljeno, Kato Kufonisi je ostrvo sa jednom tavernom i crkvom, ali se na njemu nalaze predivne plaže, dok je Keros zaštićeno arheološko nalazište     Idealno za odmor jer vam ovde automobil apsolutno nije potreban. Pano Kufonisi možete obići biciklom ili se upustiti u lagane šetnje, jer njegova površina iznosi nešto manje od 6 kilometara kvadratnih. Glavno mesto na ostrvu je tipičan primer kiklandske arhitekture – bele kuće sa plavim prozorima i vratima. Na ostrvu postoje odlične plaže, najpoznatije su Pori i Fanos. Brodićima i čamcima se možete odvesti do Kato Kufonisija i uživati u njegovim lepotama.",
+            "season":"summer",
+            "type":"Medeni mesec",
+            "imgsrc":"http://www.greece-is.com/wp-content/uploads/2018/08/shutterstock_765047266.jpg"
+            },
+            {
+              "id":51,
+            "country":"Turkey",
+            "city":"Kemer",
+            "description":"Na 42 kilometara udaljenosti od Antalije, u podnožju Taurusa, nalazi se letovalište Kemer. Kemer se sastoji iz devet sela, dok mu je obala dugačka 52 kilometara. Šume, more i planine se ovde stapaju i čine divno mesto za letovanje. Zbog blizine planina, ovde je klima nešto svežija nego u drugim mediteranskim gradovima. Kemer je mirno mesto, novootkriveno, odlično za ljubitelje jedrenja. Kupoholičari neće moći da odole njegovom velikom bazaru i mnogobrojnim suvenirnicama.Glavna šljunkovita plaža Kemera poseduje „plavu zastavicu“ zbog kristalno čiste vode.Samo je jedna plaža peskovita – Moonlight.Za izležavanje na plaži nije potreban suncobran jer borove šume prave izvanrednu hladovinu.          Kemer je poznat po svojim plantažama pomorandži i letnjim festivalima posvećenim ovom divnom citrusnom voću.Prevedeno sa turskog, kemer znači kaiš. Naime, reka koja protiče kroz Kemer ima oblik kaiša.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"https://toposiguranje.rs/wp-content/uploads/2017/05/shutterstock_291478784-630x420.jpg"
+            },
+            {
+              "id":52,
+            "country":"Greece",
+            "city":"Meganisi",
+            "description":"Meganisi je maleno ostrvo u Jonskom moru. Nalazi se u neposrednoj blizini Lefkade odakle iz Nidrija za svega nekoliko minuta trajektom stižete na ovo ostrvce. Karakteriše ga bujna vegetacija, četinarske šume i maslinjaci. Na ostrvu postoje tri sela Vati, Katomeri i Spartohori. Do poslednjeg u nizu je najbolje doći uskim putem ili stepenicama, laganom desetominutnom šetnjom, od zaliva i luke Spilija, gde se nalazi i jedna fenomenalna plaža.            Idealna varijanta je da iznajmite skuter, lagano obiđete ostrvo i pronađete uvale i plaže na kojima možete uživati. Na ostvru se nalazi pećina Papanikolis, druga po veličini u Grčkoj. Sa Meganisija lako stižete i do Lefkade ukoliko želite da istražite oba ostrva.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"https://stil.kurir.rs/data/images/2018/07/15/21/162901_shutterstock-695099677_ff.jpg?ver=1531684004"
+            },
+            {
+              "id":53,
+            "country":"Greece",
+            "city":"Kasteloriozo",
+            "description":"Najznačajnije mesto na ovom ostrvu Megisti je ujedno najistočnija tačka Grčke. Pripada Dodekanima i nalazi se svega dva kilometra od turske obale, otprilike na pola puta između Rodosa i Antalije. Tokom istorije osvajale su ga brojne vojske. Na ostrvu je sniman italijanski film Mediteraneo, dobitnik Oskara za najbolji strani film 1992.           Ovo je svakako netipično grčko ostrvo, za razliku od belih kuća na Kikladima, u Megistiju, luci i jedinom mestu na ostvru, izgrađene su vile i kuće u raznim bojama. Vredi se popeti na vrh Sveti Đorđe, do koga vodi 401 stepenik, i baciti pogled na tursku obalu. Takođe, kupanje u Plavoj pećini koja ima zadivljujuću plavu boju, i poseta malom ostrvcetu Ro, koje nema stalnog stanovništa, a gde je do 1982. živela Despina Ahladioti, koja je svakoga dana podizala grčku zastavu, neizostavni su deo plana ukoliko poželite da svoj odmor provedete ovde.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"http://www.greece-is.com/wp-content/uploads/2018/08/shutterstock_765047266.jpg"
+            },
+            {
+              "id":54,
+            "country":"Greece",
+            "city":"Kufonisija",
+            "description":"Grupacija od tri ostrva koja pripada Kikladima nalazi se između Naksosa i Amorgosa. Pano Kufonisi je naseljeno, Kato Kufonisi je ostrvo sa jednom tavernom i crkvom, ali se na njemu nalaze predivne plaže, dok je Keros zaštićeno arheološko nalazište     Idealno za odmor jer vam ovde automobil apsolutno nije potreban. Pano Kufonisi možete obići biciklom ili se upustiti u lagane šetnje, jer njegova površina iznosi nešto manje od 6 kilometara kvadratnih. Glavno mesto na ostrvu je tipičan primer kiklandske arhitekture – bele kuće sa plavim prozorima i vratima. Na ostrvu postoje odlične plaže, najpoznatije su Pori i Fanos. Brodićima i čamcima se možete odvesti do Kato Kufonisija i uživati u njegovim lepotama.",
+            "season":"summer",
+            "type":"Obilazak",
+            "imgsrc":"http://www.greece-is.com/wp-content/uploads/2018/08/shutterstock_765047266.jpg"
+            },
+            {
+              "id":55,
+            "country":"Turkey",
+            "city":"Kemer",
+            "description":"Na 42 kilometara udaljenosti od Antalije, u podnožju Taurusa, nalazi se letovalište Kemer. Kemer se sastoji iz devet sela, dok mu je obala dugačka 52 kilometara. Šume, more i planine se ovde stapaju i čine divno mesto za letovanje. Zbog blizine planina, ovde je klima nešto svežija nego u drugim mediteranskim gradovima. Kemer je mirno mesto, novootkriveno, odlično za ljubitelje jedrenja. Kupoholičari neće moći da odole njegovom velikom bazaru i mnogobrojnim suvenirnicama.Glavna šljunkovita plaža Kemera poseduje „plavu zastavicu“ zbog kristalno čiste vode.Samo je jedna plaža peskovita – Moonlight.Za izležavanje na plaži nije potreban suncobran jer borove šume prave izvanrednu hladovinu.          Kemer je poznat po svojim plantažama pomorandži i letnjim festivalima posvećenim ovom divnom citrusnom voću.Prevedeno sa turskog, kemer znači kaiš. Naime, reka koja protiče kroz Kemer ima oblik kaiša.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"https://toposiguranje.rs/wp-content/uploads/2017/05/shutterstock_291478784-630x420.jpg"
+            },
+            {
+              "id":56,
+            "country":"Greece",
+            "city":"Meganisi",
+            "description":"Meganisi je maleno ostrvo u Jonskom moru. Nalazi se u neposrednoj blizini Lefkade odakle iz Nidrija za svega nekoliko minuta trajektom stižete na ovo ostrvce. Karakteriše ga bujna vegetacija, četinarske šume i maslinjaci. Na ostrvu postoje tri sela Vati, Katomeri i Spartohori. Do poslednjeg u nizu je najbolje doći uskim putem ili stepenicama, laganom desetominutnom šetnjom, od zaliva i luke Spilija, gde se nalazi i jedna fenomenalna plaža.            Idealna varijanta je da iznajmite skuter, lagano obiđete ostrvo i pronađete uvale i plaže na kojima možete uživati. Na ostvru se nalazi pećina Papanikolis, druga po veličini u Grčkoj. Sa Meganisija lako stižete i do Lefkade ukoliko želite da istražite oba ostrva.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"https://stil.kurir.rs/data/images/2018/07/15/21/162901_shutterstock-695099677_ff.jpg?ver=1531684004"
+            },
+            {
+              "id":57,
+            "country":"Greece",
+            "city":"Kasteloriozo",
+            "description":"Najznačajnije mesto na ovom ostrvu Megisti je ujedno najistočnija tačka Grčke. Pripada Dodekanima i nalazi se svega dva kilometra od turske obale, otprilike na pola puta između Rodosa i Antalije. Tokom istorije osvajale su ga brojne vojske. Na ostrvu je sniman italijanski film Mediteraneo, dobitnik Oskara za najbolji strani film 1992.           Ovo je svakako netipično grčko ostrvo, za razliku od belih kuća na Kikladima, u Megistiju, luci i jedinom mestu na ostvru, izgrađene su vile i kuće u raznim bojama. Vredi se popeti na vrh Sveti Đorđe, do koga vodi 401 stepenik, i baciti pogled na tursku obalu. Takođe, kupanje u Plavoj pećini koja ima zadivljujuću plavu boju, i poseta malom ostrvcetu Ro, koje nema stalnog stanovništa, a gde je do 1982. živela Despina Ahladioti, koja je svakoga dana podizala grčku zastavu, neizostavni su deo plana ukoliko poželite da svoj odmor provedete ovde.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"http://www.greece-is.com/wp-content/uploads/2018/08/shutterstock_765047266.jpg"
+            },
+            {
+              "id":58,
+            "country":"Greece",
+            "city":"Kufonisija",
+            "description":"Grupacija od tri ostrva koja pripada Kikladima nalazi se između Naksosa i Amorgosa. Pano Kufonisi je naseljeno, Kato Kufonisi je ostrvo sa jednom tavernom i crkvom, ali se na njemu nalaze predivne plaže, dok je Keros zaštićeno arheološko nalazište     Idealno za odmor jer vam ovde automobil apsolutno nije potreban. Pano Kufonisi možete obići biciklom ili se upustiti u lagane šetnje, jer njegova površina iznosi nešto manje od 6 kilometara kvadratnih. Glavno mesto na ostrvu je tipičan primer kiklandske arhitekture – bele kuće sa plavim prozorima i vratima. Na ostrvu postoje odlične plaže, najpoznatije su Pori i Fanos. Brodićima i čamcima se možete odvesti do Kato Kufonisija i uživati u njegovim lepotama.",
+            "season":"summer",
+            "type":"Porodicno",
+            "imgsrc":"http://www.greece-is.com/wp-content/uploads/2018/08/shutterstock_765047266.jpg"
+            },
+            {
+              "id":59,
+            "country":"Italy",
+            "city":"Cortina d’Ampezzo",
+            "description":"Jedno je od najpopularnijih skijališta i ujedno jedna od destinacija bogatih i poznatih ljudi. Ovaj ski centar je razvijen pre nekih 160 godina kada su posetioci koristili ovo mesto kao početak njihovog putovanja u neverovatne vrhove Dolomita. Mnogo važnih događaja održano je u ovom mestu, uključujući i Zimske olimpijske igre 1956. godine. Ovo skijalište se ponekad naziva i kraljicom Dolomita.",
+            "season":"winter",
+            "type":"Odmor",
+            "imgsrc":"https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/02/04/16/Cortinad.jpg?w968"
+            },
+            {
+              "id":60,
+            "country":"Italy",
+            "city":"Madonna di Campiglio",
+            "description":"U zaštićenoj sunčanoj dolini Dolomiti di Brenta, nalazi se ovo skijalište sa zapanjujućim pejzažima i izazovnim crnim stazama. Ski centar izgrađen je u atraktivnom tradicionalnom stilu. Većina staza su srednje kategorij",
+            "season":"winter",
+            "type":"Odmor",
+            "imgsrc":"https://www.wetheitalians.com/storage/app/uploads/public/5aa/cd5/f35/5aacd5f35863a014206184.jpg"
+            },
+            {
+              "id":61,
+            "country":"France",
+            "city":"Dolina Loire (Loare)",
+            "description":"Ukoliko volite raskošan način života aristokratije iz prošlih vekova, onda je prelepi region Loare pravo mesto za vas. Ovo je čuvena “chateau” zemlja sa nekim od najveličanstvenijih starih imanja i utvrđenih dvoraca u Francuskoj. Poput reke Loare, ova ogromna oblast prolazi kroz srce francuskog života. Sa svojim sofisticiranim gradovima, bujnim pejzažima i fantastičnom hranom i vinom, čini raj za buržoaziju. Istorijski gradovi i veličanstvena linija dvoraca duž doline, uključujući i upečatljiv Chateau d'Usse, koji je bio inspiracija za bajku “Uspavana lepotica”, kao i za dvorac u Diznilendu. Dolina Loare je za duži period, dok Henri IV nije preselio svoj dvor u Pariz, bila dom kraljevske porodice i intelektualna prestonica Francuske. Nalazi se na listi UNESCO-ve svetske baštine. Ruralno i opuštajuće mesto, idealno za istraživanje.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://www.zanimljivageografija.com/uploads/galleries/najromanticnija-dolina-dolina-loare/najromanticnija-dolina-dolina-loare-12.jpg"
+            },
+            {
+              "id":62,
+            "country":"France",
+            "city":"Dolina Loire (Loare)",
+            "description":"Ukoliko volite raskošan način života aristokratije iz prošlih vekova, onda je prelepi region Loare pravo mesto za vas. Ovo je čuvena “chateau” zemlja sa nekim od najveličanstvenijih starih imanja i utvrđenih dvoraca u Francuskoj. Poput reke Loare, ova ogromna oblast prolazi kroz srce francuskog života. Sa svojim sofisticiranim gradovima, bujnim pejzažima i fantastičnom hranom i vinom, čini raj za buržoaziju. Istorijski gradovi i veličanstvena linija dvoraca duž doline, uključujući i upečatljiv Chateau d'Usse, koji je bio inspiracija za bajku “Uspavana lepotica”, kao i za dvorac u Diznilendu. Dolina Loare je za duži period, dok Henri IV nije preselio svoj dvor u Pariz, bila dom kraljevske porodice i intelektualna prestonica Francuske. Nalazi se na listi UNESCO-ve svetske baštine. Ruralno i opuštajuće mesto, idealno za istraživanje.",
+            "season":"summer",
+            "type":"Odmor",
+            "imgsrc":"https://www.zanimljivageografija.com/uploads/galleries/najromanticnija-dolina-dolina-loare/najromanticnija-dolina-dolina-loare-12.jpg"
+            }
+      ],
+  "hoteli":[
+    {
+      "id":0,
+      "naziv":"Vila grazia",
+      "city":"Milano",
+      "country":"Spain",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0f/9a/bc/3b/otel-genel-manzara.jpg",
+      "decription":"Hotel The Hive ima zajedničku krovnu terasu, a nalazi se na 300 metara od Bazilike Svete Marije Velike (Santa Maria Maggiore Basilica). Odlican hotel na dobroj lokaciji. Izuzetno gostoljubivo osoblje uvijek spremno da pomogne. Osjecao sam se kao kod kuce i u buduce cu rado boraviti u ovom hotelu."
+    },
+    {
+      "id":1,
+      "naziv":"Vila Lea",
+      "city":"Milano",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/05/27/56/a2/portrait-firenze.jpg",
+      "decription":"Hotel HT6 Roma smešten je u starom zdanju u blizini centra. U ponudi su elegantno uređene sobe sa parketom i besplatnom WiFi mrežom. Velika rimska sinagoga udaljena je 50 metara od hotela. A truly wonderful boutique hotel in the heart of Rome! Fantastic hotel and staff! Beautiful Art Deco rooms and hotel interior. Great breakfast and cozy hotel bar/lobbyWe came home from our trip today and have already booked our next visit!"
+    },
+    {
+      "id":2,
+      "naziv":"HOTEL CRISTOFORO COLOMBO",
+      "city":"Grenada",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/05/27/56/a2/portrait-firenze.jpg",
+      "decription":"Hotel HT6 Roma smešten je u starom zdanju u blizini centra. U ponudi su elegantno uređene sobe sa parketom i besplatnom WiFi mrežom. Velika rimska sinagoga udaljena je 50 metara od hotela. A truly wonderful boutique hotel in the heart of Rome! Fantastic hotel and staff! Beautiful Art Deco rooms and hotel interior. Great breakfast and cozy hotel bar/lobbyWe came home from our trip today and have already booked our next visit!"
+    },
+    {
+      "id":3,
+      "naziv":"HOTEL AURELIA",
+      "city":"Grenada",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/05/27/56/a2/portrait-firenze.jpg",
+      "decription":"Objekat Princeps Boutique Hotel se nalazi na jednom od viših spratova istorijske zgrade u centru grada i nudi elegantne, zvučno izolovane smeštajne jedinice sa mermernim kupatilom i besplatnom... Great location, great staff, great breakfast, great value, I’m very happy with this hotel"
+    },
+    {
+      "id":4,
+      "naziv":"HOTEL ROMA",
+      "city":"Grenada",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/79/15/af/tulemar-bungalows-villas.jpg",
+      "decription":"Objekat Princeps Boutique Hotel se nalazi na jednom od viših spratova istorijske zgrade u centru grada i nudi elegantne, zvučno izolovane smeštajne jedinice sa mermernim kupatilom i besplatnom... Great location, great staff, great breakfast, great value, I’m very happy with this hotel"
+    },
+    {
+      "id":5,
+      "naziv":"HOTEL LOVE",
+      "city":"Grenada",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0f/9a/bc/3b/otel-genel-manzara.jpg",
+      "decription":"Objekat Princeps Boutique Hotel se nalazi na jednom od viših spratova istorijske zgrade u centru grada i nudi elegantne, zvučno izolovane smeštajne jedinice sa mermernim kupatilom i besplatnom... Great location, great staff, great breakfast, great value, I’m very happy with this hotel"
+    },
+    {
+      "id":6,
+      "naziv":"VILA NIRVANA",
+      "city":"Milano",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/79/15/af/tulemar-bungalows-villas.jpg",
+      "decription":"Objekat Princeps Boutique Hotel se nalazi na jednom od viših spratova istorijske zgrade u centru grada i nudi elegantne, zvučno izolovane smeštajne jedinice sa mermernim kupatilom i besplatnom... Great location, great staff, great breakfast, great value, I’m very happy with this hotel"
+    },
+    {
+      "id":7,
+      "naziv":"HOTEL ENJOY",
+      "city":"Kitera",
+      "country":"Italy",
+      "zvezdice":3,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/79/15/af/tulemar-bungalows-villas.jpg",
+      "decription":"Objekat Princeps Boutique Hotel se nalazi na jednom od viših spratova istorijske zgrade u centru grada i nudi elegantne, zvučno izolovane smeštajne jedinice sa mermernim kupatilom i besplatnom... Great location, great staff, great breakfast, great value, I’m very happy with this hotel"
+    },
+    {
+      "id":8,
+      "naziv":"HOTEL ARTEMIDE",
+      "city":"Folegandros",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/79/15/af/tulemar-bungalows-villas.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":9,
+      "naziv":"HOTEL ANSELMO",
+      "city":"Folegandros",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/79/15/af/tulemar-bungalows-villas.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":10,
+      "naziv":"HOTEL BOTIQUE",
+      "city":"Folegandros",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/79/15/af/tulemar-bungalows-villas.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":11,
+      "naziv":"VILA BEST",
+      "city":"Kitera",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/11/13/bc/1c/belvedere-hotel-your.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":12,
+      "naziv":"VILA NAISUS",
+      "city":"Folegandros",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/11/13/bc/1c/belvedere-hotel-your.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":13,
+      "naziv":"HOTEL BEAUTY",
+      "city":"Folegandros",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":14,
+      "naziv":"HOTEL GOLDEN TEMPLE",
+      "city":"Kea",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":15,
+      "naziv":"HOTEL CAPPADOCIA",
+      "city":"Kea",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":16,
+      "naziv":"VILA STRATOTIMO",
+      "city":"Kea",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":17,
+      "naziv":"VILA PUBLO",
+      "city":"Kea",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":18,
+      "naziv":"HOTEL BELMOND PALACIO ",
+      "city":"Meganisi",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":19,
+      "naziv":"VILA MEXICO",
+      "city":"Meganisi",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":20,
+      "naziv":"VILA VEGAS",
+      "city":"Meganisi",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":21,
+      "naziv":"VILA ANA",
+      "city":"Kasteloriozo",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":22,
+      "naziv":"VILA MARIA",
+      "city":"Kasteloriozo",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":23,
+      "naziv":"HOTEL GOLDEN BRAVO",
+      "city":"Kitera",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":24,
+      "naziv":"VILA BEST",
+      "city":"Santorini",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/11/13/bc/1c/belvedere-hotel-your.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":25,
+      "naziv":"VILA NAISUS",
+      "city":"Folegandros",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/11/13/bc/1c/belvedere-hotel-your.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":26,
+      "naziv":"HOTEL BEAUTY",
+      "city":"Santorini",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":27,
+      "naziv":"HOTEL GOLDEN TEMPLE",
+      "city":"Patara",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":28,
+      "naziv":"HOTEL CAPPADOCIA",
+      "city":"Kufonisija",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":29,
+      "naziv":"VILA STRATOTIMO",
+      "city":"Kufonisija",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":30,
+      "naziv":"VILA PUBLO",
+      "city":"Santorini",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":31,
+      "naziv":"HOTEL BELMOND PALACIO ",
+      "city":"Kufonisija",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":32,
+      "naziv":"VILA MEXICO",
+      "city":"Patara",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":33,
+      "naziv":"VILA VEGAS",
+      "city":"Santorini",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":34,
+      "naziv":"VILA ANA",
+      "city":"Kosta brava",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":35,
+      "naziv":"VILA MARIA",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":36,
+      "naziv":"HOTEL GOLDEN BRAVO",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":37,
+      "naziv":"VILA NAISUS",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/11/13/bc/1c/belvedere-hotel-your.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":38,
+      "naziv":"HOTEL BEAUTY",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":39,
+      "naziv":"HOTEL GOLDEN TEMPLE",
+      "city":"Patara",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":40,
+      "naziv":"HOTEL CAPPADOCIA",
+      "city":"Cuenca",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":41,
+      "naziv":"VILA STRATOTIMO",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":42,
+      "naziv":"VILA PUBLO",
+      "city":"Cuenca",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":43,
+      "naziv":"HOTEL BELMOND PALACIO ",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":44,
+      "naziv":"VILA MEXICO",
+      "city":"Patara",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":45,
+      "naziv":"VILA VEGAS",
+      "city":"Kemer",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":46,
+      "naziv":"VILA ANA",
+      "city":"Alanja",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":47,
+      "naziv":"VILA MARIA",
+      "city":"Majorka",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":48,
+      "naziv":"HOTEL GOLDEN BRAVO",
+      "city":"Majorka",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":49,
+      "naziv":"HOTEL BELMOND PALACIO ",
+      "city":"Majorka",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":50,
+      "naziv":"VILA MEXICO",
+      "city":"Majorka",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":51,
+      "naziv":"VILA VEGAS",
+      "city":"Majorka",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":52,
+      "naziv":"VILA ANA",
+      "city":"Capri",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":53,
+      "naziv":"VILA MARIA",
+      "city":"Fuerteventura",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":54,
+      "naziv":"HOTEL GOLDEN BRAVO",
+      "city":"Fuerteventura",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":55,
+      "naziv":"VILA NAISUS",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/11/13/bc/1c/belvedere-hotel-your.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":56,
+      "naziv":"HOTEL BEAUTY",
+      "city":"Capri",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":57,
+      "naziv":"HOTEL GOLDEN TEMPLE",
+      "city":"Patara",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":58,
+      "naziv":"HOTEL CAPPADOCIA",
+      "city":"Cuenca",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":59,
+      "naziv":"VILA STRATOTIMO",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":60,
+      "naziv":"VILA PUBLO",
+      "city":"Cuenca",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":61,
+      "naziv":"HOTEL BELMOND PALACIO ",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":62,
+      "naziv":"VILA MEXICO",
+      "city":"Viareggio",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":63,
+      "naziv":"VILA VEGAS",
+      "city":"Viareggio",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":64,
+      "naziv":"VILA ANA",
+      "city":"Madonna di Campiglio",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":65,
+      "naziv":"VILA MARIA",
+      "city":"Madonna di Campiglio",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":66,
+      "naziv":"HOTEL GOLDEN BRAVO",
+      "city":"Cortina d’Ampezzo",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":67,
+      "naziv":"VILA ANA",
+      "city":"Capri",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":68,
+      "naziv":"VILA MARIA",
+      "city":"Fuerteventura",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":69,
+      "naziv":"HOTEL GOLDEN BRAVO",
+      "city":"Fuerteventura",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":70,
+      "naziv":"VILA NAISUS",
+      "city":"Ibiza",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/11/13/bc/1c/belvedere-hotel-your.jpg",
+      "decription":"Hotel Tribune nalazi se na centralnoj lokaciji grada. Udaljen je 600 metara od vile Borgeze i nudi besplatan bežični internet u svim prostorijama. Amazing breakfast and great shower"
+    },
+    {
+      "id":71,
+      "naziv":"HOTEL BEAUTY",
+      "city":"Rocamadour",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":72,
+      "naziv":"HOTEL GOLDEN TEMPLE",
+      "city":"Rocamadour",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":73,
+      "naziv":"HOTEL CAPPADOCIA",
+      "city":"Rocamadour",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/02/f3/91/50/palacio-nazarenas-by.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":74,
+      "naziv":"VILA STRATOTIMO",
+      "city":"Biarritz",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":75,
+      "naziv":"VILA PUBLO",
+      "city":"Biarritz",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Objekat Hotel Paolo II nudi smeštaj u mirnom dvorištu , na 15 minuta hoda od Vatikanskih muzeja. Hotel je smešten u zgradi iz ranih 1900-ih i nalazi se na 1,6 km od metro stanice Otaviano. All hotel staff are very kind and very friendly. The facility is very nice. New , clean and very useful. Also location is very good. I check out very early in the morning, but they prepare breakfast for me 30minutea ealrier than normal. Very close to Vatican and easy to get any place of Rome. And very good price."
+    },
+    {
+      "id":76,
+      "naziv":"HOTEL BELMOND PALACIO ",
+      "city":"Biarritz",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/06/26/98/48/kayakapi-premium-caves.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":77,
+      "naziv":"VILA MEXICO",
+      "city":"Biarritz",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":78,
+      "naziv":"VILA VEGAS",
+      "city":"Biarritz",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/0e/d0/15/bb/view-of-the-hotel-from.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":79,
+      "naziv":"VILA ANA",
+      "city":"Biarritz",
+      "country":"Italy",
+      "zvezdice":5,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Smešten u centru grada, na 350 metara od Španskih stepenica, butik hotel Tree Charme Spagna nudi elegantan smeštaj sa besplatnim bežičnim internetom. Breakfast is good Staff is really helpful and kind Clean Location"
+    },
+    {
+      "id":80,
+      "naziv":"VILA MARIA",
+      "city":"Dolina Loire (Loare)",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    },
+    {
+      "id":81,
+      "naziv":"HOTEL GOLDEN BRAVO",
+      "city":"Dolina Loire (Loare)",
+      "country":"Italy",
+      "zvezdice":4,
+      "imgsrc":"https://media-cdn.tripadvisor.com/media/photo-s/01/8e/e6/39/the-oberoi-rajvilas-jaipur.jpg",
+      "decription":"Gostima je takođe na raspolaganju besplatan bežični internet. Univerzitet La Sapijenca nalazi se na 700 metara, a Bazilika Svete Marije Velike na 900 metara. Brand new hotel with friendly staff"
+    }
+
+
+
+
+
+  ]
+  }
