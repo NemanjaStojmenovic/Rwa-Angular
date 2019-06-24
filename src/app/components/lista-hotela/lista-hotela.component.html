@@ -1,0 +1,18 @@
+<div class="sve">
+  <app-preporuka></app-preporuka>
+
+
+  <h2 class="naslov">HOTELS</h2>
+  <div>
+
+    <div *ngFor="let hot of list">
+      <app-hotel [hotel]="hot" [clicked]="view$ | async">
+      </app-hotel>
+      <br />
+
+
+    </div>
+
+  </div>
+
+</div>

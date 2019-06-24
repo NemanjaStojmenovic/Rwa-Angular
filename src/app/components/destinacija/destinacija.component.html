@@ -1,0 +1,27 @@
+<div>
+    <div *ngIf="destination != null" clasname='kont'>
+        <br />
+
+        <header class="grad-naziv">
+            <h3>{{destination.city}}</h3>
+        </header>
+        <a routerLink="/destination/{{destination.id}}"></a>
+
+        <div class="img-card">
+            <img src="{{destination.imgsrc}}" alt="Destination" class="slika" />
+
+        </div>
+        <div class="dugmad">
+            <button type="button" class="btn button"
+                (click)="detailsVisible = !detailsVisible"><i></i>{{ detailsVisible ? 'Hide Details' : 'Show details' }}</button>
+            <a routerLink="/city/{{ destination.city }}">
+                <button type="button" class="btn button"> Show hotels </button>
+            </a>
+        </div>
+
+        <div class="ddd"></div>
+
+    </div>
+</div>
+<app-viewdetails *ngIf="detailsVisible" [destination]="destination">
+</app-viewdetails>

@@ -1,0 +1,52 @@
+<section id="explore" class="dest">
+  <div class="container">
+    <div class="row">
+      <div class="watch">
+      </div>
+      <div class="col-md-4 col-md-offset-2 col-sm-5">
+        <h2 class="naslov">Choose type and country and find destination from your dreams </h2>
+
+      </div>
+      <div class="col-sm-7 col-md-6">
+
+
+
+        <form>
+
+          <div class="selekt-div">
+            <label class="naslov">Type:</label>
+            <select [(ngModel)]="izabranaOpcija" name="first"
+              class="selekt styled-select blue semi-square styled-select slate">
+              <option *ngFor="let o of options">
+                {{o.name}}
+
+              </option>
+            </select>
+            <label class="naslov">Country:</label>
+            <select [(ngModel)]="izabranaDrzava" name="second"
+              class="selekt styled-select blue semi-square styled-select slate">
+              <option *ngFor="let o of opcije">
+                {{o.name}}
+
+              </option>
+            </select>
+
+          </div>
+
+
+
+          <button class="btn button btn-1" (click)="searchType()">S E A R C H</button>
+
+
+        </form>
+        <br />
+        <br />
+
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>

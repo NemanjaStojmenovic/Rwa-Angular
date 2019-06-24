@@ -1,0 +1,17 @@
+<app-animacija></app-animacija>
+<app-search></app-search>
+<div class="sve">
+
+
+    <h2 class="naslov">Destinations</h2>
+    <div>
+        <div *ngFor="let dest of list; let i = index">
+            <app-destinacija [destination]="dest" [clicked]="view$ | async">
+            </app-destinacija>
+
+            <br />
+        </div>
+    </div>
+
+
+</div>

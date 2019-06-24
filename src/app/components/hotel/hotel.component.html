@@ -1,0 +1,16 @@
+<div class="sve">
+    <div *ngIf="hotel != null" clasname='kont'>
+        <br />
+        <h3 class="hotel-naziv">{{hotel.naziv}}</h3>
+        <div>
+            <img src="{{hotel.imgsrc}}"  class="slika" />
+            
+        </div>
+        <div  class="tekst">
+            Zvezdice: {{hotel.zvezdice}}
+            <br />
+            {{hotel.decription}}
+        </div>
+
+    </div>
+</div>
